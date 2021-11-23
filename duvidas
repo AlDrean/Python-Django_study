@@ -1,3 +1,4 @@
 vulnerabilidade: codigo de segurança da aplicaçao esta exposta no arquivo de configuraçao; existe uma forma segura de compartilhar o codigo da aplicaçao e manter isso em segurança?
 
 makemigration: qual a diferença para migration e que tipos de alteraçeos eu tenho que ter em mente? como ele se comporta com 2 apps que fazem anlteraçoes na mesma tabela? <claramente uma ma estruturaçao do uso de dados?>
+o que sao Cross Site Request Forgeries
