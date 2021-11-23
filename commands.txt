@@ -1,0 +1,6 @@
+python manage runserver <port>
+python manage migrate : atualizar banco de dados
+python manage.py makemigrations polls: commando para adicionar as alteraçoes realizadas no modelo de polls;
+python manage.py sqlmigrate polls 0001: criaçao das tabelas em mysql
+python manage.py check: checa por problemas no projeto sem migration ou sem toacr no banco de dados
+python manage.py shell
